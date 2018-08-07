@@ -1,0 +1,27 @@
+[submodule "C/Filler"]
+	path = C/Filler
+	url = https://github.com/Carnagiul/Filler
+[submodule "C/ls"]
+	path = C/ls
+	url = https://github.com/Carnagiul/ls
+[submodule "C/lemin"]
+	path = C/lemin
+	url = https://github.com/Carnagiul/lemin
+[submodule "C/libft"]
+	path = C/libft
+	url = https://github.com/Carnagiul/libft42
+[submodule "C/corewar"]
+	path = C/corewar
+	url = https://github.com/Carnagiul/corewar
+[submodule "C/rt"]
+	path = C/rt
+	url = https://github.com/Carnagiul/rt
+[submodule "C/wolf3d"]
+	path = C/wolf3d
+	url = https://github.com/Carnagiul/wolf3d
+[submodule "C/PiscinePhp42"]
+	path = C/PiscinePhp42
+	url = https://github.com/Carnagiul/piscinephp42
+[submodule "PHP/PiscinePhp42"]
+	path = PHP/PiscinePhp42
+	url = https://github.com/Carnagiul/piscinephp42
