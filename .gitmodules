@@ -25,3 +25,6 @@
 [submodule "PHP/PiscinePhp42"]
 	path = PHP/PiscinePhp42
 	url = https://github.com/Carnagiul/piscinephp42
+[submodule "NETWORK/init"]
+	path = NETWORK/init
+	url = https://github.com/Carnagiul/42_project_init.git
