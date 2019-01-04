@@ -28,3 +28,6 @@
 [submodule "NETWORK/init"]
 	path = NETWORK/init
 	url = https://github.com/Carnagiul/42_project_init.git
+[submodule "PHP/Camagru"]
+	path = PHP/Camagru
+	url = https://github.com/Carnagiul/Camagru.git
