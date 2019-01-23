@@ -40,3 +40,9 @@
 [submodule "C/ft_malloc"]
 	path = C/ft_malloc
 	url = https://github.com/Carnagiul/42_project_ft_malloc
+[submodule "C/42_project_computerV1"]
+	path = C/42_project_computerV1
+	url = https://github.com/Carnagiul/42_project_computerV1
+[submodule "C/42_project_computerv2"]
+	path = C/42_project_computerv2
+	url = https://github.com/Carnagiul/42_project_computerv2
