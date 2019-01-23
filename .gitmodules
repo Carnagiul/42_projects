@@ -31,3 +31,6 @@
 [submodule "PHP/Camagru"]
 	path = PHP/Camagru
 	url = https://github.com/Carnagiul/Camagru.git
+[submodule "C/libft42"]
+	path = C/libft42
+	url = https://github.com/Carnagiul/libft42.git
