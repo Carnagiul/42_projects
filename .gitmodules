@@ -34,3 +34,9 @@
 [submodule "C/libft42"]
 	path = C/libft42
 	url = https://github.com/Carnagiul/libft42.git
+[submodule "C/minishell"]
+	path = C/minishell
+	url = https://github.com/Carnagiul/42_project_minishell
+[submodule "C/ft_malloc"]
+	path = C/ft_malloc
+	url = https://github.com/Carnagiul/42_project_ft_malloc
