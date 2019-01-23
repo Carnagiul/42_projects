@@ -17,6 +17,14 @@ Class Register
 
 	}
 
+	public static function verifyNameDefaultExist($value)
+	{
+		global $sql;
+
+		$data = $sql->customSelect("SELECT `id` FROM `" . self::$table_default . "` WHERE `id` = ?", array($name));
+		
+	}
+
 	public static function verifyRegistation($name, $mail, $pass, $pass2)
 	{
 		if ($name == NULL)
